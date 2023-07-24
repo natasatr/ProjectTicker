@@ -1,0 +1,12 @@
+.ag-header {
+    background-color: #105897;
+    color: whitesmoke;
+}
+
+.ag-row-even {
+    background-color: #a3c7e7;
+}
+
+.ag-row-odd {
+    background-color: white;
+}
